@@ -1,6 +1,7 @@
 # discordcrasharchive
 y know those videos that reboots/freezes discord? ye those
 
+feel free to ask to add another video on pr or on my discord: padero#0401
 
 ## how it works
 
