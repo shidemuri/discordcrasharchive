@@ -68,4 +68,4 @@ Created 15000x15000 texture with SDL_PIXELFORMAT_IYUV.   <<<<<<<<<<<<<<<<<<<<<<<
 
 ```
 
-ppl also use [gfycat](https://gfycat.com/) because it have autoplay on so yeah be careful out there
+ppl also use [gfycat](https://gfycat.com/) to upload the videos and send it to others because it has autoplay so yeah be careful out there
